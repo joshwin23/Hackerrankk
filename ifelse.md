@@ -11,8 +11,8 @@ If  is even and in the inclusive range of  to , print Weird
 
 If  is even and greater than , print Not Weird
 
+~
 
-¬
 import math
 import os
 import random
@@ -32,4 +32,4 @@ else:
         print('Weird');
     elif n>20:
         print('Not Weird'); 
-¬
+~
